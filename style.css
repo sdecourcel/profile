@@ -1,0 +1,89 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  color: rgb(120, 120, 120);
+  font-weight: lighter;
+  line-height: 24px;
+  background: #EBEBEB;
+}
+
+div {
+
+}
+
+h1, h2, h3 {
+  font-family: Montserrat;
+}
+
+h1 {
+  color: #2980b9;
+  font-size: 22px;
+  font-weight: light;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(210,210,210);
+}
+
+a:hover {
+  color: #2980b9;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  margin: 20px 0;
+  padding: 30px;                              /* Internal space */
+  border-radius: 4px;                         /* Small radius */
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: white;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.list-inline {
+  display: inline-block;
+  list-style: none;
+  padding: 0 20px;
+}
+
+p {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  color: rgb(120, 120, 120);
+  font-weight: lighter;
+  line-height: 24px;
+}
+.padding-none {
+  padding: 0;
+}
+.img-size {
+  width: 100px;
+}
+#img-circle {
+  width: 50px;
+  border-radius: 50%;
+}
+td {
+  padding: 10px;
+}
