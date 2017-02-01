@@ -43,7 +43,7 @@ a:hover {
 }
 
 .container {
-  width: 550px;
+  width: 520px;
   margin: 0 auto;
 }
 
@@ -78,7 +78,7 @@ p {
   padding: 0;
 }
 .img-size {
-  width: 100px;
+  width: 90px;
 }
 #img-circle {
   width: 50px;
@@ -86,4 +86,7 @@ p {
 }
 td {
   padding: 10px;
+}
+.padding-left {
+  padding: 20px;
 }
