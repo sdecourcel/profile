@@ -79,14 +79,14 @@ p {
 }
 .img-size {
   width: 90px;
-  padding-top: 10px;
+  padding-top: 30px;
 }
 #img-circle {
   width: 50px;
   border-radius: 50%;
 }
 td {
-  padding: 5px;
+  padding: 5px 0px;
 }
 .padding-left {
   padding-left: 20px;
